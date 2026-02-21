@@ -1,5 +1,5 @@
 {
-  "name": "openclaw-plugin-searxng",
+  "name": "searxng-search",
   "version": "1.0.0",
   "type": "module",
   "description": "SearXNG web search plugin for OpenClaw - privacy-preserving search via your self-hosted SearXNG instance",
